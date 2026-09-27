@@ -190,12 +190,3 @@ Attendance status colors remain independent from the selected interface theme.
 ## Local-First Design
 
 Presencialidades is designed to work locally.
-
-The default architecture is:
-
-```text
-Web Interface
-     ↓
-Local Python Backend
-     ↓
-SQLite Database
