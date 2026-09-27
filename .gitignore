@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+runtime/
+data/
+dist/
+build/
+installer-output/
+.env

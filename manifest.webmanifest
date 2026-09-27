@@ -1,0 +1,10 @@
+{
+  "name": "Presencialidad",
+  "short_name": "Presencialidad",
+  "description": "Asistencia y seguimiento escolar local-first",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#168c86",
+  "lang": "es"
+}
